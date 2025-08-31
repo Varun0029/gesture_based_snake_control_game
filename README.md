@@ -90,7 +90,7 @@ python accuracy.py
 
 ### 4️⃣ Play Snake Game
 ```bash
-python atlast.py
+python train.py
 ```
 
 - Snake moves according to detected gestures  
